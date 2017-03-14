@@ -1,0 +1,5 @@
+com\karafboot\KarafSpringbootApplication.class
+com\karafboot\modal\CreateLeadRequest.class
+com\karafboot\modal\CreateLeadResponse.class
+com\karafboot\controllers\KarafSpringbootRestController.class
+com\karafboot\domain\KarafSpringbootService.class
